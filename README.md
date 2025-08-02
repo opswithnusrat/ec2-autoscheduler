@@ -6,7 +6,7 @@ EC2 instance auto-scheduler project:
 Automate stopping and starting EC2 instances based on tags using:
 - 🧠 AWS Lambda (Python)
 - ⏰ Amazon EventBridge (CloudWatch Events) cron expressions
-
+```
 ---
 
 ## ✅ Goal
